@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Переводчик OpenAI",
+  "version": "1.0",
+  "description": "Расширение для перевода интерфейса OpenAI Chat на русский язык.",
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "",
+    "default_icon": {
+      "128": "128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*", "https://www.chat.openai.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
