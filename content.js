@@ -43,6 +43,8 @@ var translations = {
   "May occasionally produce harmful instructions or biased content": "Может иногда создавать вредные инструкции или предвзятый контент",
   "Limited knowledge of world and events after 2021": "Ограниченные знания о мире и событиях после 2021 года",
   "Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ": "Перевод от YanaShine (2023) | Бесплатное предварительное исследование. ChatGPT может дать неточную информацию о людях, местах или фактах. ",
+  "Only one message at a time. Please allow any other responses to complete before sending another message, or wait one minute.": "Одновременно отправляется только одно сообщение. Перед отправкой другого сообщения дайте возможность завершить все остальные ответы или подождите одну минуту.",
+  "There was an error generating a response": "Произошла ошибка при генерации ответа"
 };
 
 // Функция для перевода текста
