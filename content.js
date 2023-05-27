@@ -38,6 +38,7 @@ var translations = {
   "December": "Декабрь",
   "Your plan": "Твой план",
   "Free plan": "Бесплатный план",
+  "You've reached our limit of messages per hour. Please try again later.": "Вы достигли нашего лимита сообщений в час. Пожалуйста, повторите попытку позже.",
   "Explain quantum computing in simple terms": "Объясняет квантовые вычисления простыми словами",
   "Got any creative ideas for a 10 year old’s birthday?": "Креативные идеи для дня рождения 10-летнего ребенка",
   "How do I make an HTTP request in Javascript?": "Как сделать HTTP запрос в Javascript?",
