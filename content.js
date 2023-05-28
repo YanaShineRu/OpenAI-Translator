@@ -24,6 +24,7 @@ var translations = {
   "Examples": "Примеры",
   "Capabilities": "Возможности",
   "Limitations": "Ограничения",
+  "Yesterday": "Вчера",
   "January": "Январь",
   "February": "Февраль",
   "March": "Март",
