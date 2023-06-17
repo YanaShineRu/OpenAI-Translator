@@ -8,6 +8,7 @@ var translations = {
   "Hide sidebar": "Скрыть боковую панель",
   "Show sidebar": "Показать боковую панель",
   "Take survey": "Пройти опрос",
+  "Too many requests in 1 hour. Try again later.": "Слишком много запросов за 1 час. Повторите попытку позже.",
   "Stop generating": "Остановить генерацию",
   "Upgrade to Plus": "Повышение до Plus",
   "Today": "Сегодня",
