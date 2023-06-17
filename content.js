@@ -3,7 +3,6 @@ var translations = {
   "New chat": "Новый чат",
   "Send a message...": "Отправить сообщение...",
   "Send a message": "Отправить сообщение",
-  "Send a message": "Отправить сообщение",  
   "We’d love to hear from you!": "Мы будем рады услышать вас!",
   "Shape the future of ChatGPT.": "Определите будущее ChatGPT.",
   "Hide sidebar": "Скрыть боковую панель",
