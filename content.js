@@ -9,6 +9,7 @@ var translations = {
   "Show sidebar": "Показать боковую панель",
   "Take survey": "Пройти опрос",
   "Too many requests in 1 hour. Try again later.": "Слишком много запросов за 1 час. Повторите попытку позже.",
+  "Something went wrong, please try reloading the conversation.": "Что-то пошло не так, пожалуйста, попробуйте перезагрузить чат.",
   "Copied!": "Скопировано!",
   "Stop generating": "Остановить генерацию",
   "Upgrade to Plus": "Повышение до Plus",
