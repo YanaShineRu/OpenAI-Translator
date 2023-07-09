@@ -10,6 +10,7 @@ var translations = {
   "Too many requests in 1 hour. Try again later.": "Слишком много запросов за 1 час. Повторите попытку позже.",
   "Something went wrong, please try reloading the conversation.": "Что-то пошло не так, пожалуйста, попробуйте перезагрузить чат.",
   "Something went wrong. If this issue persists please contact us through our help center at help.openai.com.": "Что-то пошло не так. Если проблема сохраняется, пожалуйста, свяжитесь с нами через наш справочный центр по адресу help.openai.com.",
+  "An error occurred. Either the engine you requested does not exist or there was another issue processing your request. If this issue persists please contact us through our help center at help.openai.com.",  "Произошла ошибка. Либо запрошенный вами двигатель не существует, либо возникла другая проблема при обработке вашего запроса. Если эта проблема сохраняется, пожалуйста, свяжитесь с нами через наш справочный центр по адресу help.openai.com.",
   "Copied!": "Скопировано!",
   "Stop generating": "Остановить генерацию",
   "Upgrade to Plus": "Повышение до Plus",
